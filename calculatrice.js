@@ -30,6 +30,11 @@ function racineCarree(a) {
 }
 
 
+function puissance2(a, b) {
+    return a ** b;
+}
+
+
 // Test des fonctions
 console.log("Addition 5 + 3 =", addition(5, 3));
 console.log("Soustraction 10 - 4 =", soustraction(10, 4));
